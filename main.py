@@ -1,3 +1,5 @@
+# Rock Paper Scissors program by @Skavam on GitHub
+
 import random 
 from colorama import Fore
 
